@@ -917,6 +917,7 @@ hr {
 body {
   margin: 0;
   font-family: Arial, sans-serif;
+  height: 935px;
 }
 #navigation {
   position: fixed;
